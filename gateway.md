@@ -1,2 +1,3 @@
 - [kong: The Microservice API Gateway](https://github.com/Kong/kong)
 - [zuul](https://github.com/Netflix/zuul)
+- [claudia](https://github.com/claudiajs/claudia)
